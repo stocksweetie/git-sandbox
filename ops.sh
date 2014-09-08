@@ -1,1 +1,1 @@
-server.go_faster()
+if error: server.close()
